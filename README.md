@@ -59,7 +59,7 @@
 
 <h2 align="left">GitHub Statistics</h2>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mubeen" />
+  <img src="https://komarev.com/ghpvc/?username=mubeen&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <div align="center" style="line-height:0;">
