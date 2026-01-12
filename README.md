@@ -3,14 +3,14 @@
 <h4 align="left">
   Hi, I'm <b>Mubeen</b>, a full-stack developer with a strong backend focus, building web applications with clean,
   maintainable server-side architecture.
-  I primarily work with <b>JavaScript</b> across the stack using <b>Express</b> for backend APIs and <b>React</b> for frontend interfaces,
+  I primarily work with <b>JavaScript</b> and <b>TypeScript</b> across the stack using <b>Express</b> for backend APIs and <b>React</b> for frontend interfaces,
   and I am actively learning <b>Go</b> to deepen my understanding of performant backend systems.
 </h4>
 
 <h2 align="left">About Me</h2>
 <p align="left">
   Writing production-oriented web and backend code since 2024<br>
-  Strong focus on <b>JavaScript</b>, <b>Express</b>, and RESTful API design<br>
+  Strong focus on <b>JavaScript</b>, <b>TypeScript</b>, <b>Express</b>, and RESTful API design<br>
   Building full-stack applications with React-based frontends and database-driven backends<br>
   Comfortable with relational databases using <b>PostgreSQL</b> and <b>MySQL</b><br>
   Currently learning <b>Go</b> for backend services, concurrency, and performance-oriented design<br>
